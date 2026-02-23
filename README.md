@@ -5,7 +5,7 @@ this file is calculator code
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>welcome to kg coding </title>
+    <title>welcome to my code </title>
     <link rel="stylesheet" href="calculater.css">
 </head>
 <body>
